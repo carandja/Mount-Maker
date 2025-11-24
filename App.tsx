@@ -196,7 +196,7 @@ const App: React.FC = () => {
             <div className="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center text-white">
               <Ruler className="w-5 h-5" />
             </div>
-            <h1 className="font-bold text-xl tracking-tight text-slate-800 hidden sm:block">MountMaster</h1>
+            <h1 className="font-bold text-xl tracking-tight text-slate-800 hidden sm:block">Mount-Maker</h1>
           </div>
           
           <div className="flex items-center gap-2 sm:gap-4">
